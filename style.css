@@ -1,0 +1,34 @@
+#all {
+text-align:center;
+color:black;
+}
+
+.title {
+font-family:Verdana, sans-serif;
+color:blue;
+text-align:center;
+}
+
+.list {
+font-family:Georgia, serif;
+text-align:center;
+
+}
+
+p {
+    text-align:justify;
+}
+
+ol, ul {
+    text-align:left;
+}
+
+h1 {
+    text-align:center;
+    color:#910000;
+    font-family:Verdana, sans-serif;
+}
+
+h2 {
+    text-align:center;
+}
